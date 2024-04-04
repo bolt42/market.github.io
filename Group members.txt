@@ -1,0 +1,18 @@
+Eyob Wasihun ugr/23416/13
+NAtnael ayele ugr/23704/13
+Amlakbalew Endashaw ugr/23757/13
+Ebisa Bette ugr/22643/13
+Belay sewareg ugr/23940/13
+
+
+
+Ecconmercer website
+   1 session
+   2 crude opreation dbms
+   3 html, css, js
+   4 dynamic display 
+   5 function
+      Adding products 
+      selling 
+      display 
+      sign in AND login accounts 
